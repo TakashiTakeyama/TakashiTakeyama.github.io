@@ -28,9 +28,9 @@ h2 {
 }
 
 .wrap-video{
-    display: flex;
+  display: flex;
   position:relative;
-  height: 90vh;
+  /*height: 90vh;*/
 }
 
 .wrap-video video{
@@ -45,8 +45,9 @@ h2 {
   position: absolute;
   top: 50%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
+  /*-webkit-transform: translate(-50%, -50%);*/
   transform: translate(-50%, -50%); /*上下左右中央寄せ*/
+  z-index: 100;
   text-align:center;
   color: white;
 }
@@ -110,6 +111,10 @@ h2 {
   letter-spacing: .05em;
   font-family: 'Open Sans', sans-serif;
 }
+
+.section-intro {
+  margin-bottom: 40px;
+}
 #about .section-body {
   display: flex;
   flex-wrap: wrap;
@@ -132,3 +137,17 @@ img, video, object {
   vertical-align: bottom;
   border: none;
 }
+
+#contact ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0;
+}
+
+#contact li {
+  list-style: none;
+  padding: 0 30px;
+}
+
+
