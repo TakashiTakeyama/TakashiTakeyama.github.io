@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
+            <state relative-caret-position="2805">
+              <caret line="165" selection-start-line="165" selection-end-line="165" />
             </state>
           </provider>
         </entry>
@@ -25,11 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1433">
-              <caret line="202" column="10" lean-forward="true" selection-start-line="202" selection-start-column="10" selection-end-line="202" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="453">
+              <caret line="129" column="10" lean-forward="true" selection-start-line="129" selection-start-column="10" selection-end-line="129" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -41,6 +38,7 @@
       <find>section</find>
       <find>image</find>
       <find>.section</find>
+      <find>iam</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -68,7 +66,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,6 +82,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,6 +101,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
@@ -148,11 +149,12 @@
       <workItem from="1570579686272" duration="10199000" />
       <workItem from="1570601190337" duration="16152000" />
       <workItem from="1570671669882" duration="4107000" />
+      <workItem from="1570718849633" duration="253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46141000" />
+    <option name="totallyTimeSpent" value="46394000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -167,7 +169,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983957" visible="true" weight="0.18559219" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983957" visible="true" weight="0.18742369" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50160426" side_tool="true" weight="0.18009768" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -244,18 +246,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
+        <state relative-caret-position="2805">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/Iam2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1433">
-          <caret line="202" column="10" lean-forward="true" selection-start-line="202" selection-start-column="10" selection-end-line="202" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="453">
+          <caret line="129" column="10" lean-forward="true" selection-start-line="129" selection-start-column="10" selection-end-line="129" selection-end-column="10" />
         </state>
       </provider>
     </entry>
