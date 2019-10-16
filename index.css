@@ -8,6 +8,7 @@
     -o-transition: .3s;
     transition: .3s;
     color: #333;
+  transition: all 0.5s;
   text-align: center;
 }
 
